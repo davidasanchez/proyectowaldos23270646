@@ -4,7 +4,7 @@
 
 ## Contenido del Proyecto
 
-Tu proyecto está organizado en los siguientes módulos principales:
+Está organizado en los siguientes módulos principales:
 
 - **categorias.py**: Gestiona las categorías de tus productos.
 - **clientes.py**: Administra la información detallada de tus clientes.
